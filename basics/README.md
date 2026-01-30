@@ -1,4 +1,6 @@
 # Basics Directory
 
-0. Shell script that prints the absolute path of the current working directory.
-1. Shell script that prints the contents of a directory.
+Create basic shell scripts that:
+0. Print the absolute path of the current working directory.
+1. Print the contents of a directory.
+2. Change working directory to the user's home directory.
