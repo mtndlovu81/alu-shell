@@ -1,2 +1,2 @@
 #!/bin/bash
-echo "hello $(id -unr)"
+echo "hello $SUDO_USER"
