@@ -1,2 +1,2 @@
 #!/bin/bash
-while read -r l; do echo "$l"; read; done
+xargs -d $'\n' -n 2 bash -c 'echo "$1"' +
