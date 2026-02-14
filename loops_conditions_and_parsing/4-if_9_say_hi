@@ -1,7 +1,7 @@
 #!/usr/bin/env bash
 #print "Hi" for i = 9 else "Best School"
 i=1
-while [ $i -le 10 ]; do
+while [ $i -le 11 ]; do
     if [ $i -eq 9 ]; then
         echo "Hi"
     else
