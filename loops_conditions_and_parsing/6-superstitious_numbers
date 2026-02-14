@@ -1,4 +1,5 @@
 #!/bin/env bash
+#print superstitious numbers
 i=1
 while [ $i -le 20 ]; do
     case $i in
